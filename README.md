@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julianahodeyemi
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis and learning Python, R, SQL and Tableau.
 - 🌱 I’m currently taking the Google Data Analytics Course on cousera and the Introduction to Computer Science on edX.
 - 💞️ I’m looking to collaborate on small projects for beginners.
 - 📫 You can reach me on julianahodeyemi@gmail.com
