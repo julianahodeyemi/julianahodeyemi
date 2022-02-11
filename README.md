@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianahodeyemi
-- ✨ I am an aspiring data scientist/data analyst
-- 👀 I’m interested in learning Python, R, SQL, ML & AI and Tableau.
+- ✨ Data scientist/data analyst
+- 👀 Working with Python, R, SQL, ML & AI and Tableau.
 - 🌱 I’m currently taking the Google Data Analytics Course on cousera and the Introduction to Computer Science on edX.
 - 💞️ I’m looking to collaborate on small projects for beginners.
 - 📫 You can reach me on julianahodeyemi@gmail.com
