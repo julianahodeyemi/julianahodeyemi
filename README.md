@@ -3,7 +3,7 @@
 - 👀 Working with Python, R, SQL, ML & AI and Tableau.
 - 🌱 I’m currently taking the Google Data Analytics Course on cousera and the Introduction to Computer Science on edX.
 - 💞️ I’m looking to collaborate on small projects for beginners.
-- 📫 You can reach me on julianahodeyemi@gmail.com
+- 📫 You can visit my portfolio website me on https://julianahodeyemi.github.io/julianahsportfolio.github.io/
 
 <!---
 julianahodeyemi/julianahodeyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
